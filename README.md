@@ -31,4 +31,4 @@
 31 - Second Siter - Red
 32 - The Teacher - Blue
 33 - Whispers of Power - ?
-34 - Imperial Workshop - Red
+34 - Zard - Orange
