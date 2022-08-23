@@ -6,7 +6,7 @@
 6 - Talon Malakoz - ?
 7 - Ben Solo - Indigo
 8 - Rey Palpatine - Red
-9 - Count Dooku - Red
+9 - Crispity - Orange
 10 - Obi-Wan Kenobi - Blue
 11 - Darkness - Red
 12 - Luke ? - ?
