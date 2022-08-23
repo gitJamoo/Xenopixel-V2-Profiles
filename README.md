@@ -16,18 +16,18 @@
 16 - Starkiller ? - ?
 17 - Ascension - ?
 18 - Yoda - Green
-19 - Rey Skywalker - ?
-20 - Final Steps - ?
+19 - Decay - Purple
+20 - Final Steps - Rainbow
 21 - Luke Skywalker - Green
 22 - Codex of Light - White
 23 - Cyber Terror - Orange
 24 - Dark Ages - Blue
 25 - Hatred - Red
-26 - Ittol - Rainbow
+26 - Ittol - Green
 27 - Serenity - Purple
 28 - The Champion - Rainbow
 29 - Darth Vader - Red
-30 - Ezra - Blue
+30 - Engine - Orange
 31 - Second Siter - Red
 32 - The Teacher - Blue
 33 - Whispers of Power - ?
