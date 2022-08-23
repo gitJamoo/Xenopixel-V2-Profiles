@@ -1,67 +1,69 @@
-1 - Kylo Ren - Red
+## 🌌 In use Soundfonts 🌌
 
-2 - Rey - Indigo ?
+🟥 1 - **Kylo Ren** - Red
 
-3 - Dark Saber - White
+🟦 2 - **Rey** - Indigo ?
 
-4 - Anakin - Blue
+⬜ 3 - **Dark Saber** - White
 
-5 - Darth Maul - Red
+🟦 4 - **Anakin** - Blue
 
-6 - Talon Malakoz - ?
+🟥 5 - **Darth Maul** - Red
 
-7 - Ben Solo - Indigo
+🟥 6 - **Talon Malakoz** - Red
 
-8 - Rey Palpatine - Red
+🟦 7 - **Ben Solo** - Indigo
 
-9 - Crispity - Orange
+🟥 8 - **Rey Palpatine** - Red
 
-10 - Obi-Wan Kenobi - Blue
+🟧 9 - **Crispity** - Orange
 
-11 - Darkness - Red
+🟦 10 - **Obi-Wan Kenobi** - Blue
 
-12 - Luke ? - ?
+🟥 11 - **Darkness** - Red
 
-13 - Cal Kestis - Purple
+🟩 12 - **Luke** - Green
 
-14 - Leia - Indigo
+🟪 13 - **Cal Kestis** - Purple
 
-15 - Revan - Red
+🟦 14 - **Leia** - Indigo
 
-16 - Starkiller ? - ?
+🟥 15 - **Revan** - Red
 
-17 - Ascension - ?
+⬛ 16 - **Starkiller** ? - ?
 
-18 - Yoda - Green
+⬛ 17 - **Ascension** - ?
 
-19 - Decay - Purple
+🟩 18 - **Yoda** - Green
 
-20 - Final Steps - Rainbow
+🟪 19 - **Decay** - Purple
 
-21 - Luke Skywalker - Green
+🏳️‍🌈 20 - **Final Steps** - Rainbow
 
-22 - Codex of Light - White
+🟩 21 - **Luke Skywalker** - Green
 
-23 - Cyber Terror - Orange
+⬜ 22 - **Codex of Light** - White
 
-24 - Dark Ages - Blue
+🟧 23 - **Cyber Terror** - Orange
 
-25 - Hatred - Red
+🟦 24 - **Dark Ages** - Blue
 
-26 - Ittol - Green
+🟥 25 - **Hatred** - Red
 
-27 - Serenity - Purple
+🟩 26 - **Ittol** - Green
 
-28 - The Champion - Rainbow
+🟪 27 - **Serenity** - Purple
 
-29 - Darth Vader - Red
+🏳️‍🌈 28 - **The Champion** - Rainbow
 
-30 - Engine - Orange
+🟥 29 - **Darth Vader** - Red
 
-31 - Second Siter - Red
+🟧 30 - **Engine** - Orange
 
-32 - The Teacher - Blue
+🟥 31 - **Second Siter** - Red
 
-33 - Whispers of Power - ?
+🟦 32 - **The Teacher** - Blue
 
-34 - Zard - Orange
+🟩 33 - **Whispers of Power** - Green
+
+🟧 34 - **Zard** - Orange
